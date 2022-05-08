@@ -8,7 +8,7 @@
 /// --- CXX library --------------------------------
 
 /// Конфигурационный файл
-#include "config/config.h"
+#include "../include/config/config.h"
 
 #define IDC_LABEL1  1025        ///< ID label
 HWND MSLabel;
